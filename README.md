@@ -37,11 +37,13 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 
 ### Open XAMPP Software
 
-> In the control panel, choose these modules to start:
+> **XAMPP Control Panel**
+> 
+> Choose these modules to start:
 > 
 > ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
 > 
-> After that, click **admin** button in **MySQL** module.
+> After that, click **Admin** button in **MySQL** module.
 
 ### Install Dependencies for Nuxt
 
@@ -118,6 +120,7 @@ This project was developed by:
 You can send a message on our following socials:
 
 > Email: **sti.bscs.thesis@gmail.com**
+> 
 > Discord Channel: [Thesis701](https://discord.gg/CBUbE33zPF)
 
 
