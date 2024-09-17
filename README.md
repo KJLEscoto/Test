@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="..." alt="LOGO HERE SOON" width="700" />
+  <img src="https://drive.google.com/uc?export=view&id=12bxpRpvAb1kHJFJb2CUVrqF4HfO7w332" alt="LOGO" width="700" />
 </p>
 
 # Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities
