@@ -43,7 +43,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 > 
 > ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
 > 
-> After that, click **Admin** button in **MySQL** module.
+> After that, click **Admin** action in **MySQL** module.
 
 ### Install Dependencies for Nuxt:
 
