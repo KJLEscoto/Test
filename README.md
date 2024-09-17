@@ -1,21 +1,17 @@
 # Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities
 This aims to develop a robust theft prediction system that uses motion and gesture pattern recognition to identify suspicious activities, providing a practical approach to theft prediction.
 
-
-## 📖 Documentation 
-See [Thesis Prediction](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
+See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 
 
 ## 🟩 Getting Started 
 
 ### Requirements:
-✅ Visual Studio Code ([download here](https://code.visualstudio.com/))
+- ✅ Visual Studio Code ([download here](https://code.visualstudio.com/))
+- ✅ Composer ([download here](https://getcomposer.org/))
+- ✅ Node.js ([download here](https://nodejs.org/en))
 
-✅ Composer ([download here](https://getcomposer.org/))
-
-✅ Node.js ([download here](https://nodejs.org/en))
-
-### Configure
+### Configuration:
 -tbd
 
 
