@@ -3,7 +3,7 @@
 </p>
 
 # Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities
-Aims to develop a robust theft prediction system that uses motion and gesture pattern recognition to identify suspicious activities, providing a practical approach to theft prediction.
+A theft prediction system that uses motion and gesture pattern recognition to identify suspicious activities, providing a practical approach to theft prediction.
 
 See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 
