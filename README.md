@@ -18,7 +18,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 - ✅ XAMPP ([download here](https://www.apachefriends.org/)).
 - ✅ Git ([download here](https://git-scm.com/downloads)).
 
-### Copy of the Project
+### Copy of the Project:
 
 > **Clone the project**
 > ```bash
@@ -35,7 +35,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 >  code .
 > ```
 
-### Open XAMPP Software
+### Open XAMPP Software:
 
 > **XAMPP Control Panel**
 > 
@@ -45,7 +45,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 > 
 > After that, click **Admin** button in **MySQL** module.
 
-### Install Dependencies for Nuxt
+### Install Dependencies for Nuxt:
 
 > **Open terminal in VS Code**
 > 
@@ -68,7 +68,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 > 
 > ![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
 
-### Install Dependencies for Laravel
+### Install Dependencies for Laravel:
 
 > **Open another terminal in VS Code**
 >
@@ -102,9 +102,8 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 >  php artisan serve
 > ```
 
-### Run Python
+### Run Python:
 > -tbd
-
 
 
 ## 👪 Credits
