@@ -18,9 +18,9 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 - ✅ XAMPP ([download here](https://www.apachefriends.org/)).
 - ✅ Git ([download here](https://git-scm.com/downloads)).
 
-### Copy of the Project:
+### Clone the Project:
 
-> **Clone the project**
+> **Open terminal (git bash, cmd, or etc.)**
 > ```bash
 >  git clone https://link-to-project
 > ```
