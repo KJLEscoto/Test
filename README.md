@@ -2,8 +2,10 @@
 This aims to develop a robust theft prediction system that uses motion and gesture pattern recognition to identify suspicious activities, providing a practical approach to theft prediction.
 
 
+
 ## 📖 Documentation 
 See [Thesis Prediction](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
+
 
 
 ## 🟩 Getting Started 
@@ -20,6 +22,7 @@ See [Thesis Prediction](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tS
 -tbd
 
 
+
 ## 👪 Credits
 This project was developed by:
 - [Luis Suizo](https://github.com/evander092002)
@@ -28,12 +31,15 @@ This project was developed by:
 - [Ralph Hernandez](https://github.com/yourboiralph)
 - [Reynaldo Baja Jr.](https://github.com/rey-cloud)
 
+
+
 ## ❔ Where to ask for help?
 You can send a message on our following socials:
 
 Email: **sti.bscs.thesis@gmail.com**
 
 Discord Channel: [Thesis701](https://discord.gg/CBUbE33zPF)
+
 
 
 ## ©️ Copyright
