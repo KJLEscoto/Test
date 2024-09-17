@@ -24,10 +24,12 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 > ```bash
 >  git clone https://link-to-project
 > ```
+> 
 > Go to the project directory
 > ```bash
 >  cd my-project
 > ```
+> 
 > Open folder to VS Code
 > ```bash
 >  code .
@@ -43,72 +45,63 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 
 ### Install Dependencies for Nuxt
 
-**Open terminal in VS Code**
-
-Go to VIEW folder
-
-```bash
- cd view
-```
-
-Install NPM
-
-```bash
- npm install
-```
-
-Run the server
-
-```bash
- npm run dev
-```
-
-**CTRL + Click** the link (http://localhost:3000/) you see in the terminal:
-
-![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
+> **Open terminal in VS Code**
+> 
+> Go to VIEW folder
+> ```bash
+>  cd view
+> ```
+> 
+> Install NPM
+> ```bash
+>  npm install
+> ```
+> 
+> Run the server
+> ```bash
+>  npm run dev
+> ```
+> 
+> **CTRL + Click** the link (http://localhost:3000/) you see in the terminal:
+> 
+> ![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
 
 ### Install Dependencies for Laravel
 
-**Open another terminal in VS Code**
-
-Go to API folder
-
-```bash
- cd api
-```
-
-Install composer
-
-```bash
- composer install
-```
-
-Copy the .env file
-
-```bash
- cp .env.example .env
-```
-
-Generate keys (if there is)
-
-```bash
- php artisan key:generate
-```
-
-Migrate all tables and seed the database
-
-```bash
- php artisan migrate --seed
-```
-
-Run the server
-
-```bash
- php artisan serve
-```
+> **Open another terminal in VS Code**
+>
+> Go to API folder
+> ```bash
+>  cd api
+> ```
+>
+> Install composer
+> ```bash
+>  composer install
+> ```
+> 
+> Copy the .env file
+> ```bash
+>  cp .env.example .env
+> ```
+> 
+> Generate keys (if there is)
+> ```bash
+>  php artisan key:generate
+> ```
+>
+> Migrate all tables and seed the database
+> ```bash
+>  php artisan migrate --seed
+> ```
+> 
+> Run the server
+> ```bash
+>  php artisan serve
+> ```
 
 ### Run Python
--tbd
+> -tbd
 
 
 
@@ -124,9 +117,8 @@ This project was developed by:
 ## ❔ Where to ask for help?
 You can send a message on our following socials:
 
-Email: **sti.bscs.thesis@gmail.com**
-
-Discord Channel: [Thesis701](https://discord.gg/CBUbE33zPF)
+> Email: **sti.bscs.thesis@gmail.com**
+> Discord Channel: [Thesis701](https://discord.gg/CBUbE33zPF)
 
 
 ## ©️ Copyright
