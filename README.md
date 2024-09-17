@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=12bxpRpvAb1kHJFJb2CUVrqF4HfO7w332" alt="LOGO" width="500" />
+  <img src="https://drive.google.com/uc?export=view&id=12bxpRpvAb1kHJFJb2CUVrqF4HfO7w332" alt="LOGO" width="300" />
 </p>
 
 # Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities
