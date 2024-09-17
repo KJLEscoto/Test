@@ -20,7 +20,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 
 ### Clone the Project:
 
-> **Open terminal (git bash, cmd, or etc.)**
+> **Open terminal you like to use (git bash, cmd, or any)**
 > ```bash
 >  git clone https://link-to-project
 > ```
@@ -102,7 +102,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 >  php artisan serve
 > ```
 
-### Run Python:
+### Run Python command:
 > -tbd
 
 
