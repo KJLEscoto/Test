@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="..." alt="LOGO HERE SOON" width="700" />
+</p>
+
 # Theft Prediction: A Motion and Gesture Sensor for Identifying Suspicious Activities
-This aims to develop a robust theft prediction system that uses motion and gesture pattern recognition to identify suspicious activities, providing a practical approach to theft prediction.
+Aims to develop a robust theft prediction system that uses motion and gesture pattern recognition to identify suspicious activities, providing a practical approach to theft prediction.
 
 See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 
@@ -40,11 +44,6 @@ In the control panel, choose these modules to start:
 
 ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
 
-#center
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp" alt="Image Alt Text" width="400" />
-</p>
-
 After that, click **admin** button in **MySQL** module.
 
 ### Install Dependencies for Nuxt
@@ -69,7 +68,7 @@ Run the server
  npm run dev
 ```
 
-**CTRL + Click** the link (http://localhost:3000/) you see:
+**CTRL + Click** the link (http://localhost:3000/) you see in the terminal:
 
 ![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
 
@@ -115,6 +114,7 @@ Run the server
 
 ### Run Python
 -tbd
+
 
 
 ## 👪 Credits
