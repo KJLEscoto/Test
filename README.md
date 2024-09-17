@@ -111,8 +111,8 @@ This project was developed by:
 - [Luis Suizo](https://github.com/evander092002)
 - [Kent Escoto](https://github.com/KJLEscoto)
 - [Rochele Cocjin](https://github.com/iochel)
-- [Ralph Hernandez](https://github.com/yourboiralph)
 - [Reynaldo Baja Jr.](https://github.com/rey-cloud)
+- [Ralph Hernandez](https://github.com/yourboiralph)
 
 
 ## ❔ Where to ask for help?
