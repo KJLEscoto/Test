@@ -40,6 +40,11 @@ In the control panel, choose these modules to start:
 
 ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
 
+#center
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp" alt="Image Alt Text" width="400" />
+</p>
+
 After that, click **admin** button in **MySQL** module.
 
 ### Install Dependencies for Nuxt
