@@ -4,21 +4,19 @@ This aims to develop a robust theft prediction system that uses motion and gestu
 See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 
 
-## 🟩 Getting Started 
+## 🟩 Getting Started | Run Locally
 
 ### Requirements:
 
-- ✅ Visual Studio Code ([download here](https://code.visualstudio.com/)).
+-- ✅ Visual Studio Code ([download here](https://code.visualstudio.com/)).
 - ✅ Composer ([download here](https://getcomposer.org/)).
 - ✅ Node.js ([download here](https://nodejs.org/en)).
 - ✅ XAMPP ([download here](https://www.apachefriends.org/)).
 - ✅ Git ([download here](https://git-scm.com/downloads)).
 
-### Run Locally:
+### Copy of the Project
 
-#### Copy of the Project
-
-Clone the project
+**Clone the project**
 
 ```bash
   git clone https://link-to-project
@@ -36,8 +34,7 @@ Open folder to VS Code
  code .
 ```
 
-
-#### Open XAMPP Software
+### Open XAMPP Software
 
 In the control panel, choose these modules to start:
 
@@ -45,8 +42,7 @@ In the control panel, choose these modules to start:
 
 After that, click **admin** button in **MySQL** module.
 
-
-#### Install Dependencies for Nuxt
+### Install Dependencies for Nuxt
 
 **Open terminal in VS Code**
 
@@ -69,10 +65,10 @@ Run the server
 ```
 
 **CTRL + Click** the link (http://localhost:3000/) you see:
+
 ![localhost](https://drive.google.com/file/d/1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb/view?usp=sharing)
 
-
-#### Install Dependencies for Laravel
+### Install Dependencies for Laravel
 
 **Open another terminal in VS Code**
 
@@ -112,7 +108,7 @@ Run the server
  php artisan serve
 ```
 
-#### Run Python
+### Run Python
 -tbd
 
 
