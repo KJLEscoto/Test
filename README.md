@@ -10,6 +10,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 - ✅ Visual Studio Code ([download here](https://code.visualstudio.com/))
 - ✅ Composer ([download here](https://getcomposer.org/))
 - ✅ Node.js ([download here](https://nodejs.org/en))
+- ✅ Git ([download here](https://git-scm.com/downloads))
 
 ### Configuration:
 -tbd
