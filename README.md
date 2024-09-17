@@ -22,26 +22,24 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 
 > **Clone the project**
 > ```bash
-> git clone https://link-to-project
+>  git clone https://link-to-project
 > ```
 > Go to the project directory
 > ```bash
-> cd my-project
+>  cd my-project
 > ```
-
-Open folder to VS Code
-
-```bash
- code .
-```
+> Open folder to VS Code
+> ```bash
+>  code .
+> ```
 
 ### Open XAMPP Software
 
-In the control panel, choose these modules to start:
-
-![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
-
-After that, click **admin** button in **MySQL** module.
+> In the control panel, choose these modules to start:
+> 
+> ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
+> 
+> After that, click **admin** button in **MySQL** module.
 
 ### Install Dependencies for Nuxt
 
