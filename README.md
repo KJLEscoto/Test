@@ -21,12 +21,13 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 ### Copy of the Project
 
 > **Clone the project**
-
-> ```bash git clone https://link-to-project```
-
+> ```bash
+> git clone https://link-to-project
+> ```
 > Go to the project directory
-
-> ```bash cd my-project ```
+> ```bash
+> cd my-project
+> ```
 
 Open folder to VS Code
 
