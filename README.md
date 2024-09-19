@@ -18,7 +18,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 - ✅ XAMPP ([download here](https://www.apachefriends.org/)).
 - ✅ Git ([download here](https://git-scm.com/downloads)).
 
-### Set Things Up:
+## Set Things Up:
 
 ### Open XAMPP Software:
 
