@@ -18,9 +18,23 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 - ✅ XAMPP ([download here](https://www.apachefriends.org/)).
 - ✅ Git ([download here](https://git-scm.com/downloads)).
 
+### Set Things Up:
+
+### Open XAMPP Software:
+
+> Choose these modules to start:
+> 
+> ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
+> 
+> After that, click **Admin** action in **MySQL** module.
+>
+> If the window appears as shown, proceed to the next step.
+>
+> ![phpmyadmin](https://drive.google.com/uc?export=view&id=1eWiUBuPAoPiUPQTM8rTGlCcvTxMKCDrZ)
+
 ### Clone the Project:
 
-> **Open terminal you like to use (git bash, cmd, or any)**
+> **Open a terminal you would like to use (git bash, cmd, or any)**
 > ```bash
 >  git clone https://link-to-project
 > ```
@@ -35,42 +49,13 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 >  code .
 > ```
 
-### Open XAMPP Software:
+### Run Python (Machine Learning):
 
-> **XAMPP Control Panel**
-> 
-> Choose these modules to start:
-> 
-> ![xampp](https://drive.google.com/uc?export=view&id=1MaZx_BNTGF825tGRqm4aav16ggfK3gMp)
-> 
-> After that, click **Admin** action in **MySQL** module.
+> **Open a terminal inside VS Code**
 
-### Install Dependencies for Nuxt:
+### Install Dependencies for Laravel (Back-End):
 
-> **Open terminal in VS Code**
-> 
-> Go to VIEW folder
-> ```bash
->  cd view
-> ```
-> 
-> Install NPM
-> ```bash
->  npm install
-> ```
-> 
-> Run the server
-> ```bash
->  npm run dev
-> ```
-> 
-> **CTRL + Click** the link (http://localhost:3000/) you see in the terminal:
-> 
-> ![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
-
-### Install Dependencies for Laravel:
-
-> **Open another terminal in VS Code**
+> **Open another terminal inside VS Code**
 >
 > Go to API folder
 > ```bash
@@ -102,9 +87,30 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 >  php artisan serve
 > ```
 
-### Run Python command:
-> -tbd
+### Install Dependencies for Nuxt (Front-End):
 
+> **Open another terminal inside VS Code**
+> 
+> Go to VIEW folder
+> ```bash
+>  cd view
+> ```
+> 
+> Install NPM
+> ```bash
+>  npm install
+> ```
+> 
+> Run the server
+> ```bash
+>  npm run dev
+> ```
+> 
+> **CTRL + Click** the link (http://localhost:3000/) you see in the terminal:
+> 
+> ![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
+>
+> That's it! The project is now ready to use.
 
 ## 👪 Credits
 This project was developed by:
