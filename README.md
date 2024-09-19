@@ -8,7 +8,7 @@ A theft prediction system that uses motion and gesture pattern recognition to id
 See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 
 
-## 🟩 Getting Started | Run Locally
+## 🟩 Get Started | Run Project Locally
 
 ### Requirements:
 
