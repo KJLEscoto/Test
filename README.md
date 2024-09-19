@@ -110,7 +110,8 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 > 
 > ![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
 >
-> That's it! The project is now ready to use.
+
+## ❤️ That's it! The project is now ready to use. ❤️
 
 ## 👪 Credits
 This project was developed by:
