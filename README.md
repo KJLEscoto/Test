@@ -8,9 +8,7 @@ A theft prediction system that uses motion and gesture pattern recognition to id
 See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r64igUF/view?usp=sharing) for more info.
 
 
-## 🟩 Get Started | Run Project Locally
-
-### Requirements:
+## 📂 Requirements
 
 - ✅ Visual Studio Code ([download here](https://code.visualstudio.com/)).
 - ✅ Composer ([download here](https://getcomposer.org/)).
@@ -18,7 +16,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 - ✅ XAMPP ([download here](https://www.apachefriends.org/)).
 - ✅ Git ([download here](https://git-scm.com/downloads)).
 
-## Set Things Up:
+## 🟩 Get Started | Run Project Locally
 
 ### Open XAMPP Software:
 
@@ -111,7 +109,7 @@ See [documentation](https://drive.google.com/file/d/13JfqGKbeYx3t3D2HC0iH9tSk4r6
 > ![localhost](https://drive.google.com/uc?export=view&id=1ZUasDbDnpKBn2sKebAHRpFY8HsPvE9Sb)
 >
 
-## ❤️ That's it! The project is now ready to use. ❤️
+### ❤️ That's it! The project is now ready to use. ❤️
 
 ## 👪 Credits
 This project was developed by:
